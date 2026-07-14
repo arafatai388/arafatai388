@@ -1,16 +1,18 @@
-# Hi 👋 I'm Arafat Islam
+# Hi there! 👋 I'm Arafat Islam
 
-### CSE Student | Aspiring Data Scientist
+🎓 Second-Year Computer Science & Engineering Student at Daffodil International University
 
-![](https://komarev.com/ghpvc/?username=arafatai388&label=Profile%20Views&color=0e75b6&style=flat)
+💻 Currently focused on Full-Stack Web Development while strengthening my foundation in Computer Science.
 
-Welcome to my GitHub Profile.
+🌱 Passionate about Software Engineering, Data Science, and Research, with a strong commitment to continuous learning and building impactful solutions.
 
-Currently Learning:
+🚀 I enjoy developing real-world projects, solving challenging problems, and exploring modern technologies to grow as a software developer.
 
+📚 Currently Learning
+- Full-Stack Web Development
 - Python
-- SQL
-- HTML & CSS
-- DBMS
+- SQL & Database Management
+- Data Structures & Algorithms
 
-Thanks for visiting my profile.
+🎯 Career Goal
+To become a skilled Software Engineer, contribute to innovative technologies, and pursue higher studies in Data Science and Research.
