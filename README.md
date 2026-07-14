@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Arafat Islam
 
-<!--
-**arafatai388/arafatai388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=arafatai388&label=Profile%20Views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub Profile.
+
+Currently Learning:
+
+- Python
+- SQL
+- HTML & CSS
+- DBMS
+
+Thanks for visiting my profile.
